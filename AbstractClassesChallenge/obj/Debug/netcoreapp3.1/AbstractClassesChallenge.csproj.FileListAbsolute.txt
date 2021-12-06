@@ -1,0 +1,14 @@
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.AssemblyReference.cache
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfoInputs.cache
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfo.cs
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.exe
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.deps.json
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.json
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.dev.json
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\shaul\Revature\ShaulS\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.genruntimeconfig.cache

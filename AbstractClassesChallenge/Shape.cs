@@ -4,7 +4,7 @@ namespace AbstractClassesChallenge
 {
     abstract public class Shape
     {
-        public string Name { get; set; } = "";
+        public string Name { get ; set; } = "";
         public int NumSides { get; set; } = 0;
         protected double area;
         
